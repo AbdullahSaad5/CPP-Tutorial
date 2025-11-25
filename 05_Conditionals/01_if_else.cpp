@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int age = 18;
+    int age = 16;
 
     cout << "=== Simple If ===" << endl;
     if (age >= 18) {

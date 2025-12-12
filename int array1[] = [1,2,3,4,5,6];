@@ -1,0 +1,3 @@
+int rollNos[] = ["FA22-01", "FA22-02", "FA22-03", "FA22-04", "FA22-05", "FA22-06"];
+string names[] = ["Ali", "Ahmed", "Usman", "Hassan", "Hussain", "Ali"];
+double marks[] = [100, 90, 80, 70, 60, 50];
